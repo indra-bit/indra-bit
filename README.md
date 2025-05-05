@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning **Python** 🐍
 - ⚡ Fun fact: you so fucking **black**
-- 📫 How to reach me: **@kuch_indra** on Instagram
+- 📫 How to reach me: [**@kuch_indra**](https://www.instagram.com/kuch_dra?igsh=dHhrZGdxcXJvbHR0) on Instagram
 
-
-![messi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnliNTJyc2o5YTBtc2t2bWg5ZGVxYmFmajB0MGh3dWdrZTh6MnlqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjAcxImn74uoDYVxFl/giphy.gif)
