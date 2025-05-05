@@ -1,6 +1,6 @@
 # Hi there I'm kuch indra👋
 
-![indra](images/)
+
 
 <!--
 **indra-bit/indra-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
