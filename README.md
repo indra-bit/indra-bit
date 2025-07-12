@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Python** 🐍
 - ⚡ The Great Wall of China Is Invisible from the Moon
 - 📫 How to reach me: [**@kuch_indra**](https://www.instagram.com/kuch_dra?igsh=dHhrZGdxcXJvbHR0) on Instagram
+- 📫 How to reach me: [**Dra**](https://wa.me/6285794993687) on WhatsApp
 - 💬 Ask me about ask me anything you want
 
