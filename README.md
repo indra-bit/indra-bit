@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning **Python** 🐍
+- 🌱 I’m currently learning **Framework LARAVEL**
 - ⚡ The Great Wall of China Is Invisible from the Moon
 - 📫 How to reach me: [**@kuch_indra**](https://www.instagram.com/kuch_dra?igsh=dHhrZGdxcXJvbHR0) on Instagram
 - 📫 How to reach me: [**Dra**](https://wa.me/6285794993687) on WhatsApp
 - 📫 How to reach me: [**Indra Ardiansyah**](mailto:indraardiansyah0815@gmail.com) on Gmail
-- 💬 Ask me about ask me anything you want
+- 💬 Ask me anything you want
 
