@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning **Python** 🐍
-- ⚡ Fun fact: you so fucking **black**
+- ⚡ The Great Wall of China Is Invisible from the Moon
 - 📫 How to reach me: [**@kuch_indra**](https://www.instagram.com/kuch_dra?igsh=dHhrZGdxcXJvbHR0) on Instagram
+- 💬 Ask me about ask me anything you want
 
